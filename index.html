@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DE Pages Showcase</title>
+  <style>
+    :root {
+      color-scheme: light dark;
+      --bg: #f6f8fa;
+      --panel: #ffffff;
+      --text: #1f2328;
+      --muted: #59636e;
+      --link: #0969da;
+      --border: #d1d9e0;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #0d1117;
+        --panel: #161b22;
+        --text: #e6edf3;
+        --muted: #8b949e;
+        --link: #58a6ff;
+        --border: #30363d;
+      }
+    }
+    body {
+      font-family: system-ui, -apple-system, Segoe UI, sans-serif;
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+    }
+    main {
+      max-width: 52rem;
+      margin: 2rem auto;
+      padding: 0 1rem 3rem;
+    }
+    h1 { font-size: 1.5rem; margin-bottom: 0.25rem; }
+    p.lead { color: var(--muted); margin-top: 0; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    th, td {
+      padding: 0.65rem 0.85rem;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+    }
+    th { font-size: 0.85rem; color: var(--muted); }
+    tr:last-child td { border-bottom: none; }
+    a { color: var(--link); }
+    code { font-size: 0.9em; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>DE Pages Showcase</h1>
+    <p class="lead">Публічні HTML-артефакти з приватних data-engineering репозиторіїв.</p>
+    <table>
+      <thead>
+        <tr>
+          <th>Source repo</th>
+          <th>Опис</th>
+          <th>Посилання</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><code>Planing</code></td>
+          <td>Інтерактивний Gantt портфеля проєктів</td>
+          <td><a href="planing/timeline_gantt.html">timeline_gantt.html</a></td>
+        </tr>
+      </tbody>
+    </table>
+  </main>
+</body>
+</html>
