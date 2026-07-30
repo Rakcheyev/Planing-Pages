@@ -1,5 +1,1 @@
-# CI-generated per-repo folders are pushed by source-repo workflows, not edited here.
-planing/*
-!planing/README.md
-pbi/
-dataops/
+# Scaffold only — generated HTML is committed by CI from source repos.

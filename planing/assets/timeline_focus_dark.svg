@@ -1,0 +1,182 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="895" viewBox="0 0 900 895" role="img" aria-label="Фокус — незавершена робота, 33 задач" font-family="Segoe UI,Helvetica,Arial,sans-serif">
+<title>Фокус — незавершена робота, 33 задач</title>
+<rect width="900" height="895" fill="#1e1e2e"/>
+<text x="18" y="27" font-size="17" font-weight="700" fill="#cdd6f4">Фокус — незавершена робота, 33 задач</text>
+<text x="18" y="46" font-size="11.5" fill="#a6adc8">вікно 30 днів назад / 120 вперед від 2026-07-30 · повний горизонт портфеля 2025-11-01 → 2027-07-28</text>
+<line x1="325.7" y1="60.0" x2="325.7" y2="849.0" stroke="#585b70" stroke-width="1"/>
+<text x="330.7" y="74.0" font-size="11.5" font-weight="600" fill="#f9e2af">лип 2026</text>
+<line x1="441.5" y1="60.0" x2="441.5" y2="849.0" stroke="#585b70" stroke-width="1"/>
+<text x="446.5" y="74.0" font-size="11.5" font-weight="600" fill="#f9e2af">сер 2026</text>
+<line x1="557.2" y1="60.0" x2="557.2" y2="849.0" stroke="#585b70" stroke-width="1"/>
+<text x="562.2" y="74.0" font-size="11.5" font-weight="600" fill="#f9e2af">вер 2026</text>
+<line x1="669.2" y1="60.0" x2="669.2" y2="849.0" stroke="#585b70" stroke-width="1"/>
+<text x="674.2" y="74.0" font-size="11.5" font-weight="600" fill="#f9e2af">жов 2026</text>
+<line x1="784.9" y1="60.0" x2="784.9" y2="849.0" stroke="#585b70" stroke-width="1"/>
+<text x="789.9" y="74.0" font-size="11.5" font-weight="600" fill="#f9e2af">лис 2026</text>
+<rect x="0" y="90.0" width="900" height="23" fill="#26263a"/>
+<text x="18" y="106.0" font-size="11" font-weight="600" fill="#a6adc8" font-family="Consolas,monospace">DWH-OPT</text>
+<text x="142" y="106.0" font-size="11.5" fill="#cdd6f4">Безперервна оптимізація розго…</text>
+<rect x="322.0" y="95.0" width="560.0" height="13" rx="3" fill="#f9e2af" fill-opacity="0.28" stroke="#f9e2af" stroke-width="1.5"/>
+<polygon points="322.0,95.0 322.0,108.0 316.0,101.5" fill="#f9e2af"/>
+<polygon points="882.0,95.0 882.0,108.0 888.0,101.5" fill="#f9e2af"/>
+<text x="18" y="129.0" font-size="11" font-weight="600" fill="#a6adc8" font-family="Consolas,monospace">FAB-P2</text>
+<text x="142" y="129.0" font-size="11.5" fill="#cdd6f4">PoC: міграція одного mart у F…</text>
+<rect x="322.0" y="118.0" width="175.5" height="13" rx="3" fill="#89b4fa"/>
+<polygon points="322.0,118.0 322.0,131.0 316.0,124.5" fill="#89b4fa"/>
+<text x="503.5" y="129.0" font-size="10" fill="#a6adc8">04-22 → 08-15</text>
+<rect x="0" y="136.0" width="900" height="23" fill="#26263a"/>
+<text x="18" y="152.0" font-size="11" font-weight="600" fill="#a6adc8" font-family="Consolas,monospace">MCP-P2</text>
+<text x="142" y="152.0" font-size="11.5" fill="#cdd6f4">Операційна готовність + DevOp…</text>
+<rect x="322.0" y="141.0" width="347.2" height="13" rx="3" fill="#89b4fa"/>
+<polygon points="322.0,141.0 322.0,154.0 316.0,147.5" fill="#89b4fa"/>
+<text x="675.2" y="152.0" font-size="10" fill="#a6adc8">04-28 → 09-30</text>
+<text x="18" y="175.0" font-size="11" font-weight="600" fill="#a6adc8" font-family="Consolas,monospace">DWH-P4</text>
+<text x="142" y="175.0" font-size="11.5" fill="#cdd6f4">Онбординг нових таблиць + прі…</text>
+<rect x="322.0" y="164.0" width="175.5" height="13" rx="3" fill="#89b4fa"/>
+<polygon points="322.0,164.0 322.0,177.0 316.0,170.5" fill="#89b4fa"/>
+<text x="503.5" y="175.0" font-size="10" fill="#a6adc8">05-18 → 08-15</text>
+<rect x="0" y="182.0" width="900" height="23" fill="#26263a"/>
+<text x="18" y="198.0" font-size="11" font-weight="600" fill="#a6adc8" font-family="Consolas,monospace">MCP-P3</text>
+<text x="142" y="198.0" font-size="11.5" fill="#cdd6f4">Інтеграція стандартів у інші…</text>
+<rect x="322.0" y="187.0" width="287.5" height="13" rx="3" fill="#f9e2af" fill-opacity="0.28" stroke="#f9e2af" stroke-width="1.5"/>
+<polygon points="322.0,187.0 322.0,200.0 316.0,193.5" fill="#f9e2af"/>
+<text x="615.5" y="198.0" font-size="10" fill="#a6adc8">05-20 → 09-14</text>
+<text x="18" y="221.0" font-size="11" font-weight="600" fill="#a6adc8" font-family="Consolas,monospace">PBI-P3</text>
+<text x="142" y="221.0" font-size="11.5" fill="#cdd6f4">Production PBIP reports portf…</text>
+<rect x="322.0" y="210.0" width="347.2" height="13" rx="3" fill="#89b4fa"/>
+<polygon points="322.0,210.0 322.0,223.0 316.0,216.5" fill="#89b4fa"/>
+<text x="675.2" y="221.0" font-size="10" fill="#a6adc8">05-29 → 09-30</text>
+<rect x="0" y="228.0" width="900" height="23" fill="#26263a"/>
+<text x="18" y="244.0" font-size="11" font-weight="600" fill="#f38ba8" font-family="Consolas,monospace">⚠ MCP-BLOCKER</text>
+<text x="142" y="244.0" font-size="11.5" fill="#cdd6f4">AWS Bridgestone testing — бло…</text>
+<rect x="322.0" y="233.0" width="347.2" height="13" rx="3" fill="#f38ba8"/>
+<polygon points="322.0,233.0 322.0,246.0 316.0,239.5" fill="#f38ba8"/>
+<text x="675.2" y="244.0" font-size="10" fill="#a6adc8">06-01 → 09-30</text>
+<text x="18" y="267.0" font-size="11" font-weight="600" fill="#a6adc8" font-family="Consolas,monospace">MCP-P4</text>
+<text x="142" y="267.0" font-size="11.5" fill="#cdd6f4">Еталонний end-to-end сценарій</text>
+<rect x="322.0" y="256.0" width="119.5" height="13" rx="3" fill="#f9e2af" fill-opacity="0.28" stroke="#f9e2af" stroke-width="1.5"/>
+<polygon points="322.0,256.0 322.0,269.0 316.0,262.5" fill="#f9e2af"/>
+<text x="447.5" y="267.0" font-size="10" fill="#a6adc8">06-10 → 07-31</text>
+<rect x="0" y="274.0" width="900" height="23" fill="#26263a"/>
+<text x="18" y="290.0" font-size="11" font-weight="600" fill="#a6adc8" font-family="Consolas,monospace">DOP-PREP</text>
+<text x="142" y="290.0" font-size="11.5" fill="#cdd6f4">Preparatory links у sibling r…</text>
+<rect x="325.7" y="279.0" width="556.3" height="13" rx="3" fill="#89b4fa"/>
+<polygon points="882.0,279.0 882.0,292.0 888.0,285.5" fill="#89b4fa"/>
+<text x="18" y="313.0" font-size="11" font-weight="600" fill="#a6adc8" font-family="Consolas,monospace">DWH-P7</text>
+<text x="142" y="313.0" font-size="11.5" fill="#cdd6f4">ETL operational recovery (INT…</text>
+<rect x="325.7" y="302.0" width="171.7" height="13" rx="3" fill="#89b4fa"/>
+<text x="503.5" y="313.0" font-size="10" fill="#a6adc8">07-01 → 08-15</text>
+<rect x="0" y="320.0" width="900" height="23" fill="#26263a"/>
+<text x="18" y="336.0" font-size="11" font-weight="600" fill="#a6adc8" font-family="Consolas,monospace">FTP-P4</text>
+<text x="142" y="336.0" font-size="11.5" fill="#cdd6f4">DWH downstream: RAW cohort 10…</text>
+<rect x="325.7" y="325.0" width="171.7" height="13" rx="3" fill="#89b4fa"/>
+<text x="503.5" y="336.0" font-size="10" fill="#a6adc8">07-01 → 08-15</text>
+<text x="18" y="359.0" font-size="11" font-weight="600" fill="#a6adc8" font-family="Consolas,monospace">MCP-P5</text>
+<text x="142" y="359.0" font-size="11.5" fill="#cdd6f4">Unified reporting + monitoring</text>
+<rect x="325.7" y="348.0" width="171.7" height="13" rx="3" fill="#f9e2af" fill-opacity="0.28" stroke="#f9e2af" stroke-width="1.5"/>
+<text x="503.5" y="359.0" font-size="10" fill="#a6adc8">07-01 → 08-15</text>
+<rect x="0" y="366.0" width="900" height="23" fill="#26263a"/>
+<text x="18" y="382.0" font-size="11" font-weight="600" fill="#a6adc8" font-family="Consolas,monospace">PBI-KFHOST</text>
+<text x="142" y="382.0" font-size="11.5" fill="#cdd6f4">KF L4 host operations (federa…</text>
+<rect x="325.7" y="371.0" width="556.3" height="13" rx="3" fill="#89b4fa"/>
+<polygon points="882.0,371.0 882.0,384.0 888.0,377.5" fill="#89b4fa"/>
+<text x="18" y="405.0" font-size="11" font-weight="600" fill="#a6adc8" font-family="Consolas,monospace">PBI-P2</text>
+<text x="142" y="405.0" font-size="11.5" fill="#cdd6f4">PQ Optimiser maintenance (P2…</text>
+<rect x="325.7" y="394.0" width="556.3" height="13" rx="3" fill="#89b4fa"/>
+<polygon points="882.0,394.0 882.0,407.0 888.0,400.5" fill="#89b4fa"/>
+<rect x="0" y="412.0" width="900" height="23" fill="#26263a"/>
+<text x="18" y="428.0" font-size="11" font-weight="600" fill="#a6adc8" font-family="Consolas,monospace">PLAN-KF</text>
+<text x="142" y="428.0" font-size="11.5" fill="#cdd6f4">**PIVOT** Knowledge Factory L…</text>
+<rect x="325.7" y="417.0" width="556.3" height="13" rx="3" fill="#89b4fa"/>
+<polygon points="882.0,417.0 882.0,430.0 888.0,423.5" fill="#89b4fa"/>
+<text x="18" y="451.0" font-size="11" font-weight="600" fill="#a6adc8" font-family="Consolas,monospace">PLAN-TEAM-PLATF…</text>
+<text x="142" y="451.0" font-size="11.5" fill="#cdd6f4">Hybrid Bridgestone+Cursor tea…</text>
+<rect x="325.7" y="440.0" width="556.3" height="13" rx="3" fill="#89b4fa"/>
+<polygon points="882.0,440.0 882.0,453.0 888.0,446.5" fill="#89b4fa"/>
+<rect x="0" y="458.0" width="900" height="23" fill="#26263a"/>
+<text x="18" y="474.0" font-size="11" font-weight="600" fill="#a6adc8" font-family="Consolas,monospace">TRN-EVOL</text>
+<text x="142" y="474.0" font-size="11.5" fill="#cdd6f4">Training evolution / pattern…</text>
+<rect x="325.7" y="463.0" width="556.3" height="13" rx="3" fill="#89b4fa"/>
+<polygon points="882.0,463.0 882.0,476.0 888.0,469.5" fill="#89b4fa"/>
+<text x="18" y="497.0" font-size="11" font-weight="600" fill="#a6adc8" font-family="Consolas,monospace">TMPL-P3</text>
+<text x="142" y="497.0" font-size="11.5" fill="#cdd6f4">Auto-PR sync (GH Actions sync…</text>
+<rect x="359.3" y="486.0" width="29.9" height="13" rx="3" fill="#f9e2af" fill-opacity="0.28" stroke="#f9e2af" stroke-width="1.5"/>
+<text x="395.2" y="497.0" font-size="10" fill="#a6adc8">07-10 → 07-17</text>
+<rect x="0" y="504.0" width="900" height="23" fill="#26263a"/>
+<text x="18" y="520.0" font-size="11" font-weight="600" fill="#a6adc8" font-family="Consolas,monospace">FTP-P5</text>
+<text x="142" y="520.0" font-size="11.5" fill="#cdd6f4">DWH downstream: ops contour (…</text>
+<rect x="378.0" y="509.0" width="179.2" height="13" rx="3" fill="#89b4fa"/>
+<text x="563.2" y="520.0" font-size="10" fill="#a6adc8">07-15 → 08-31</text>
+<text x="18" y="543.0" font-size="11" font-weight="600" fill="#a6adc8" font-family="Consolas,monospace">FTP-P6</text>
+<text x="142" y="543.0" font-size="11.5" fill="#cdd6f4">DWH downstream: integration t…</text>
+<rect x="378.0" y="532.0" width="179.2" height="13" rx="3" fill="#f9e2af" fill-opacity="0.28" stroke="#f9e2af" stroke-width="1.5"/>
+<text x="563.2" y="543.0" font-size="10" fill="#a6adc8">07-15 → 08-31</text>
+<rect x="0" y="550.0" width="900" height="23" fill="#26263a"/>
+<text x="18" y="566.0" font-size="11" font-weight="600" fill="#a6adc8" font-family="Consolas,monospace">PBI-P1</text>
+<text x="142" y="566.0" font-size="11.5" fill="#cdd6f4">Internet funnel report — prom…</text>
+<rect x="378.0" y="555.0" width="119.5" height="13" rx="3" fill="#89b4fa"/>
+<text x="503.5" y="566.0" font-size="10" fill="#a6adc8">07-15 → 08-15</text>
+<text x="18" y="589.0" font-size="11" font-weight="600" fill="#a6adc8" font-family="Consolas,monospace">THM-P1</text>
+<text x="142" y="589.0" font-size="11.5" fill="#cdd6f4">Фаза збору даних: корпоративн…</text>
+<rect x="378.0" y="578.0" width="141.9" height="13" rx="3" fill="#89b4fa"/>
+<text x="525.9" y="589.0" font-size="10" fill="#a6adc8">07-15 → 08-21</text>
+<rect x="0" y="596.0" width="900" height="23" fill="#26263a"/>
+<text x="18" y="612.0" font-size="11" font-weight="600" fill="#a6adc8" font-family="Consolas,monospace">THM-P2</text>
+<text x="142" y="612.0" font-size="11.5" fill="#cdd6f4">Фаза збору даних: вимоги до M…</text>
+<rect x="378.0" y="601.0" width="175.5" height="13" rx="3" fill="#89b4fa"/>
+<text x="559.5" y="612.0" font-size="10" fill="#a6adc8">07-15 → 08-30</text>
+<text x="18" y="635.0" font-size="11" font-weight="600" fill="#a6adc8" font-family="Consolas,monospace">THM-P3</text>
+<text x="142" y="635.0" font-size="11.5" fill="#cdd6f4">Фаза збору даних: CI/JSON-схе…</text>
+<rect x="378.0" y="624.0" width="182.9" height="13" rx="3" fill="#89b4fa"/>
+<text x="566.9" y="635.0" font-size="10" fill="#a6adc8">07-15 → 09-01</text>
+<rect x="0" y="642.0" width="900" height="23" fill="#26263a"/>
+<text x="18" y="658.0" font-size="11" font-weight="600" fill="#a6adc8" font-family="Consolas,monospace">MCP-P6</text>
+<text x="142" y="658.0" font-size="11.5" fill="#cdd6f4">Environment promotion integra…</text>
+<rect x="404.1" y="647.0" width="97.1" height="13" rx="3" fill="#f9e2af" fill-opacity="0.28" stroke="#f9e2af" stroke-width="1.5"/>
+<text x="507.2" y="658.0" font-size="10" fill="#a6adc8">07-22 → 08-16</text>
+<text x="18" y="681.0" font-size="11" font-weight="600" fill="#a6adc8" font-family="Consolas,monospace">DWH-P8</text>
+<text x="142" y="681.0" font-size="11.5" fill="#cdd6f4">Wave 1 prod: retail_core 6 MA…</text>
+<rect x="441.5" y="670.0" width="171.7" height="13" rx="3" fill="#f9e2af" fill-opacity="0.28" stroke="#f9e2af" stroke-width="1.5"/>
+<text x="619.2" y="681.0" font-size="10" fill="#a6adc8">08-01 → 09-15</text>
+<rect x="0" y="688.0" width="900" height="23" fill="#26263a"/>
+<text x="18" y="704.0" font-size="11" font-weight="600" fill="#a6adc8" font-family="Consolas,monospace">FAB-P4</text>
+<text x="142" y="704.0" font-size="11.5" fill="#cdd6f4">Доменна міграція: sales, WH,…</text>
+<rect x="441.5" y="693.0" width="171.7" height="13" rx="3" fill="#f9e2af" fill-opacity="0.28" stroke="#f9e2af" stroke-width="1.5"/>
+<text x="619.2" y="704.0" font-size="10" fill="#a6adc8">08-01 → 09-15</text>
+<text x="18" y="727.0" font-size="11" font-weight="600" fill="#a6adc8" font-family="Consolas,monospace">DWH-P5</text>
+<text x="142" y="727.0" font-size="11.5" fill="#cdd6f4">SSoT «до кінця»: глосарій + к…</text>
+<rect x="493.7" y="716.0" width="175.5" height="13" rx="3" fill="#f9e2af" fill-opacity="0.28" stroke="#f9e2af" stroke-width="1.5"/>
+<text x="675.2" y="727.0" font-size="10" fill="#a6adc8">08-15 → 09-30</text>
+<rect x="0" y="734.0" width="900" height="23" fill="#26263a"/>
+<text x="18" y="750.0" font-size="11" font-weight="600" fill="#a6adc8" font-family="Consolas,monospace">DWH-P9</text>
+<text x="142" y="750.0" font-size="11.5" fill="#cdd6f4">SSoT closure: глосарій/контра…</text>
+<rect x="493.7" y="739.0" width="175.5" height="13" rx="3" fill="#f9e2af" fill-opacity="0.28" stroke="#f9e2af" stroke-width="1.5"/>
+<text x="675.2" y="750.0" font-size="10" fill="#a6adc8">08-15 → 09-30</text>
+<text x="18" y="773.0" font-size="11" font-weight="600" fill="#a6adc8" font-family="Consolas,monospace">MCP-P7</text>
+<text x="142" y="773.0" font-size="11.5" fill="#cdd6f4">Knowledge/onboarding layer (R…</text>
+<rect x="519.9" y="762.0" width="97.1" height="13" rx="3" fill="#f9e2af" fill-opacity="0.28" stroke="#f9e2af" stroke-width="1.5"/>
+<text x="622.9" y="773.0" font-size="10" fill="#a6adc8">08-22 → 09-16</text>
+<rect x="0" y="780.0" width="900" height="23" fill="#26263a"/>
+<text x="18" y="796.0" font-size="11" font-weight="600" fill="#a6adc8" font-family="Consolas,monospace">FAB-P5</text>
+<text x="142" y="796.0" font-size="11.5" fill="#cdd6f4">Підтримка + data cleansing (я…</text>
+<rect x="557.2" y="785.0" width="227.7" height="13" rx="3" fill="#f9e2af" fill-opacity="0.28" stroke="#f9e2af" stroke-width="1.5"/>
+<text x="790.9" y="796.0" font-size="10" fill="#a6adc8">09-01 → 10-31</text>
+<text x="18" y="819.0" font-size="11" font-weight="600" fill="#a6adc8" font-family="Consolas,monospace">MCP-P8</text>
+<text x="142" y="819.0" font-size="11.5" fill="#cdd6f4">LLM hardening + DevOps improv…</text>
+<rect x="560.9" y="808.0" width="201.6" height="13" rx="3" fill="#f9e2af" fill-opacity="0.28" stroke="#f9e2af" stroke-width="1.5"/>
+<text x="768.5" y="819.0" font-size="10" fill="#a6adc8">09-02 → 10-25</text>
+<rect x="0" y="826.0" width="900" height="23" fill="#26263a"/>
+<text x="18" y="842.0" font-size="11" font-weight="600" fill="#a6adc8" font-family="Consolas,monospace">DWH-PROD</text>
+<text x="142" y="842.0" font-size="11.5" fill="#cdd6f4">Production launch gate (SQL D…</text>
+<rect x="669.2" y="831.0" width="115.7" height="13" rx="3" fill="#f9e2af" fill-opacity="0.28" stroke="#f9e2af" stroke-width="1.5"/>
+<text x="790.9" y="842.0" font-size="10" fill="#a6adc8">10-01 → 10-31</text>
+<line x1="434.0" y1="60.0" x2="434.0" y2="849.0" stroke="#f38ba8" stroke-width="2"/>
+<polygon points="429.0,60.0 439.0,60.0 434.0,66.0" fill="#f38ba8"/>
+<rect x="18.0" y="866.0" width="22" height="12" rx="3" fill="#89b4fa"/>
+<text x="46.0" y="876.0" font-size="11.5" fill="#cdd6f4">В процесі</text>
+<rect x="124.1" y="866.0" width="22" height="12" rx="3" fill="#f9e2af" fill-opacity="0.28" stroke="#f9e2af" stroke-width="1.5"/>
+<text x="152.1" y="876.0" font-size="11.5" fill="#cdd6f4">Заплановано</text>
+<rect x="244.0" y="866.0" width="22" height="12" rx="3" fill="#f38ba8"/>
+<text x="272.0" y="876.0" font-size="11.5" fill="#cdd6f4">Заблоковано</text>
+<text x="882" y="876.0" text-anchor="end" font-size="10.5" fill="#a6adc8">▶ = задача виходить за межі вікна</text>
+</svg>
