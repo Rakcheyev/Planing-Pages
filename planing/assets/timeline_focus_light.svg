@@ -1,17 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="941" viewBox="0 0 900 941" role="img" aria-label="Фокус — незавершена робота, 35 задач" font-family="Segoe UI,Helvetica,Arial,sans-serif">
-<title>Фокус — незавершена робота, 35 задач</title>
-<rect width="900" height="941" fill="#ffffff"/>
-<text x="18" y="27" font-size="17" font-weight="700" fill="#1f2328">Фокус — незавершена робота, 35 задач</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="987" viewBox="0 0 900 987" role="img" aria-label="Фокус — незавершена робота, 37 задач" font-family="Segoe UI,Helvetica,Arial,sans-serif">
+<title>Фокус — незавершена робота, 37 задач</title>
+<rect width="900" height="987" fill="#ffffff"/>
+<text x="18" y="27" font-size="17" font-weight="700" fill="#1f2328">Фокус — незавершена робота, 37 задач</text>
 <text x="18" y="46" font-size="11.5" fill="#59636e">вікно 30 днів назад / 120 вперед від 2026-10-08 · повний горизонт портфеля 2025-11-01 → 2027-07-28</text>
-<line x1="407.9" y1="60.0" x2="407.9" y2="895.0" stroke="#afb8c1" stroke-width="1"/>
+<line x1="407.9" y1="60.0" x2="407.9" y2="941.0" stroke="#afb8c1" stroke-width="1"/>
 <text x="412.9" y="74.0" font-size="11.5" font-weight="600" fill="#9a6700">жов 2026</text>
-<line x1="523.6" y1="60.0" x2="523.6" y2="895.0" stroke="#afb8c1" stroke-width="1"/>
+<line x1="523.6" y1="60.0" x2="523.6" y2="941.0" stroke="#afb8c1" stroke-width="1"/>
 <text x="528.6" y="74.0" font-size="11.5" font-weight="600" fill="#9a6700">лис 2026</text>
-<line x1="635.6" y1="60.0" x2="635.6" y2="895.0" stroke="#afb8c1" stroke-width="1"/>
+<line x1="635.6" y1="60.0" x2="635.6" y2="941.0" stroke="#afb8c1" stroke-width="1"/>
 <text x="640.6" y="74.0" font-size="11.5" font-weight="600" fill="#9a6700">гру 2026</text>
-<line x1="751.3" y1="60.0" x2="751.3" y2="895.0" stroke="#afb8c1" stroke-width="1"/>
+<line x1="751.3" y1="60.0" x2="751.3" y2="941.0" stroke="#afb8c1" stroke-width="1"/>
 <text x="756.3" y="74.0" font-size="11.5" font-weight="600" fill="#9a6700">січ 2027</text>
-<line x1="867.1" y1="60.0" x2="867.1" y2="895.0" stroke="#afb8c1" stroke-width="1"/>
+<line x1="867.1" y1="60.0" x2="867.1" y2="941.0" stroke="#afb8c1" stroke-width="1"/>
 <text x="872.1" y="74.0" font-size="11.5" font-weight="600" fill="#9a6700">лют 2027</text>
 <rect x="0" y="90.0" width="900" height="23" fill="#f6f8fa"/>
 <text x="18" y="106.0" font-size="11" font-weight="600" fill="#59636e" font-family="Consolas,monospace">DWH-OPT</text>
@@ -144,58 +144,67 @@
 <text x="142" y="658.0" font-size="11.5" fill="#1f2328">Навчання з налаштування серед…</text>
 <rect x="434.0" y="647.0" width="85.9" height="13" rx="3" fill="#0969da"/>
 <text x="525.9" y="658.0" font-size="10" fill="#59636e">10-08 → 10-30</text>
-<text x="18" y="681.0" font-size="11" font-weight="600" fill="#59636e" font-family="Consolas,monospace">DWH-P12</text>
-<text x="142" y="681.0" font-size="11.5" fill="#1f2328">Період ознайомлення DIT і DBA…</text>
-<rect x="448.9" y="670.0" width="70.9" height="13" rx="3" fill="#9a6700" fill-opacity="0.28" stroke="#9a6700" stroke-width="1.5"/>
-<text x="525.9" y="681.0" font-size="10" fill="#59636e">10-12 → 10-30</text>
+<text x="18" y="681.0" font-size="11" font-weight="600" fill="#59636e" font-family="Consolas,monospace">PQ-P7</text>
+<text x="142" y="681.0" font-size="11.5" fill="#1f2328">Узгодити модуль Concepts (Int…</text>
+<rect x="434.0" y="670.0" width="82.1" height="13" rx="3" fill="#9a6700" fill-opacity="0.28" stroke="#9a6700" stroke-width="1.5"/>
+<text x="522.1" y="681.0" font-size="10" fill="#59636e">10-08 → 10-29</text>
 <rect x="0" y="688.0" width="900" height="23" fill="#f6f8fa"/>
-<text x="18" y="704.0" font-size="11" font-weight="600" fill="#59636e" font-family="Consolas,monospace">FAB-P3</text>
-<text x="142" y="704.0" font-size="11.5" fill="#1f2328">Інтеграція з Power BI semanti…</text>
+<text x="18" y="704.0" font-size="11" font-weight="600" fill="#59636e" font-family="Consolas,monospace">DWH-P12</text>
+<text x="142" y="704.0" font-size="11.5" fill="#1f2328">Період ознайомлення DIT і DBA…</text>
 <rect x="448.9" y="693.0" width="70.9" height="13" rx="3" fill="#9a6700" fill-opacity="0.28" stroke="#9a6700" stroke-width="1.5"/>
 <text x="525.9" y="704.0" font-size="10" fill="#59636e">10-12 → 10-30</text>
-<text x="18" y="727.0" font-size="11" font-weight="600" fill="#59636e" font-family="Consolas,monospace">FAB-P6</text>
-<text x="142" y="727.0" font-size="11.5" fill="#1f2328">Спільні стандарти PBI у Fabri…</text>
-<rect x="448.9" y="716.0" width="97.1" height="13" rx="3" fill="#9a6700" fill-opacity="0.28" stroke="#9a6700" stroke-width="1.5"/>
-<text x="552.0" y="727.0" font-size="10" fill="#59636e">10-12 → 11-06</text>
+<text x="18" y="727.0" font-size="11" font-weight="600" fill="#59636e" font-family="Consolas,monospace">FAB-P3</text>
+<text x="142" y="727.0" font-size="11.5" fill="#1f2328">Інтеграція з Power BI semanti…</text>
+<rect x="448.9" y="716.0" width="70.9" height="13" rx="3" fill="#9a6700" fill-opacity="0.28" stroke="#9a6700" stroke-width="1.5"/>
+<text x="525.9" y="727.0" font-size="10" fill="#59636e">10-12 → 10-30</text>
 <rect x="0" y="734.0" width="900" height="23" fill="#f6f8fa"/>
-<text x="18" y="750.0" font-size="11" font-weight="600" fill="#59636e" font-family="Consolas,monospace">PBI-38</text>
-<text x="142" y="750.0" font-size="11.5" fill="#1f2328">Підтримка та QA-сесії з коман…</text>
-<rect x="501.2" y="739.0" width="97.1" height="13" rx="3" fill="#9a6700" fill-opacity="0.28" stroke="#9a6700" stroke-width="1.5"/>
-<text x="604.3" y="750.0" font-size="10" fill="#59636e">10-26 → 11-20</text>
-<text x="18" y="773.0" font-size="11" font-weight="600" fill="#59636e" font-family="Consolas,monospace">TMPL-P6</text>
-<text x="142" y="773.0" font-size="11.5" fill="#1f2328">Перевірка, як зібрати SDLC ць…</text>
-<rect x="501.2" y="762.0" width="97.1" height="13" rx="3" fill="#9a6700" fill-opacity="0.28" stroke="#9a6700" stroke-width="1.5"/>
-<text x="604.3" y="773.0" font-size="10" fill="#59636e">10-26 → 11-20</text>
+<text x="18" y="750.0" font-size="11" font-weight="600" fill="#59636e" font-family="Consolas,monospace">FAB-P6</text>
+<text x="142" y="750.0" font-size="11.5" fill="#1f2328">Спільні стандарти PBI у Fabri…</text>
+<rect x="448.9" y="739.0" width="97.1" height="13" rx="3" fill="#9a6700" fill-opacity="0.28" stroke="#9a6700" stroke-width="1.5"/>
+<text x="552.0" y="750.0" font-size="10" fill="#59636e">10-12 → 11-06</text>
+<text x="18" y="773.0" font-size="11" font-weight="600" fill="#59636e" font-family="Consolas,monospace">PQ-P8</text>
+<text x="142" y="773.0" font-size="11.5" fill="#1f2328">Узгодити сигнатуру Oracle.Dat…</text>
+<rect x="448.9" y="762.0" width="70.9" height="13" rx="3" fill="#9a6700" fill-opacity="0.28" stroke="#9a6700" stroke-width="1.5"/>
+<text x="525.9" y="773.0" font-size="10" fill="#59636e">10-12 → 10-30</text>
 <rect x="0" y="780.0" width="900" height="23" fill="#f6f8fa"/>
-<text x="18" y="796.0" font-size="11" font-weight="600" fill="#59636e" font-family="Consolas,monospace">TMPL-P7</text>
-<text x="142" y="796.0" font-size="11.5" fill="#1f2328">Скрипти deny і оцінювання, тр…</text>
-<rect x="501.2" y="785.0" width="97.1" height="13" rx="3" fill="#9a6700" fill-opacity="0.28" stroke="#9a6700" stroke-width="1.5"/>
-<text x="604.3" y="796.0" font-size="10" fill="#59636e">10-26 → 11-20</text>
-<text x="18" y="819.0" font-size="11" font-weight="600" fill="#59636e" font-family="Consolas,monospace">DAX-P4</text>
-<text x="142" y="819.0" font-size="11.5" fill="#1f2328">Узгодити критичні зміни остан…</text>
-<rect x="527.3" y="808.0" width="70.9" height="13" rx="3" fill="#9a6700" fill-opacity="0.28" stroke="#9a6700" stroke-width="1.5"/>
-<text x="604.3" y="819.0" font-size="10" fill="#59636e">11-02 → 11-20</text>
+<text x="18" y="796.0" font-size="11" font-weight="600" fill="#59636e" font-family="Consolas,monospace">PQ-P9</text>
+<text x="142" y="796.0" font-size="11.5" fill="#1f2328">Узгодити українські дзеркала…</text>
+<rect x="475.1" y="785.0" width="70.9" height="13" rx="3" fill="#9a6700" fill-opacity="0.28" stroke="#9a6700" stroke-width="1.5"/>
+<text x="552.0" y="796.0" font-size="10" fill="#59636e">10-19 → 11-06</text>
+<text x="18" y="819.0" font-size="11" font-weight="600" fill="#59636e" font-family="Consolas,monospace">PBI-38</text>
+<text x="142" y="819.0" font-size="11.5" fill="#1f2328">Підтримка та QA-сесії з коман…</text>
+<rect x="501.2" y="808.0" width="97.1" height="13" rx="3" fill="#9a6700" fill-opacity="0.28" stroke="#9a6700" stroke-width="1.5"/>
+<text x="604.3" y="819.0" font-size="10" fill="#59636e">10-26 → 11-20</text>
 <rect x="0" y="826.0" width="900" height="23" fill="#f6f8fa"/>
-<text x="18" y="842.0" font-size="11" font-weight="600" fill="#59636e" font-family="Consolas,monospace">FAB-P7</text>
-<text x="142" y="842.0" font-size="11.5" fill="#1f2328">Вибір платформи і сервісу (gi…</text>
-<rect x="527.3" y="831.0" width="18.7" height="13" rx="3" fill="#9a6700" fill-opacity="0.28" stroke="#9a6700" stroke-width="1.5"/>
-<text x="552.0" y="842.0" font-size="10" fill="#59636e">11-02 → 11-06</text>
-<text x="18" y="865.0" font-size="11" font-weight="600" fill="#59636e" font-family="Consolas,monospace">PQ-P7</text>
-<text x="142" y="865.0" font-size="11.5" fill="#1f2328">Узгодити критичні зміни остан…</text>
-<rect x="527.3" y="854.0" width="70.9" height="13" rx="3" fill="#9a6700" fill-opacity="0.28" stroke="#9a6700" stroke-width="1.5"/>
-<text x="604.3" y="865.0" font-size="10" fill="#59636e">11-02 → 11-20</text>
+<text x="18" y="842.0" font-size="11" font-weight="600" fill="#59636e" font-family="Consolas,monospace">TMPL-P6</text>
+<text x="142" y="842.0" font-size="11.5" fill="#1f2328">Перевірка, як зібрати SDLC ць…</text>
+<rect x="501.2" y="831.0" width="97.1" height="13" rx="3" fill="#9a6700" fill-opacity="0.28" stroke="#9a6700" stroke-width="1.5"/>
+<text x="604.3" y="842.0" font-size="10" fill="#59636e">10-26 → 11-20</text>
+<text x="18" y="865.0" font-size="11" font-weight="600" fill="#59636e" font-family="Consolas,monospace">TMPL-P7</text>
+<text x="142" y="865.0" font-size="11.5" fill="#1f2328">Скрипти deny і оцінювання, тр…</text>
+<rect x="501.2" y="854.0" width="97.1" height="13" rx="3" fill="#9a6700" fill-opacity="0.28" stroke="#9a6700" stroke-width="1.5"/>
+<text x="604.3" y="865.0" font-size="10" fill="#59636e">10-26 → 11-20</text>
 <rect x="0" y="872.0" width="900" height="23" fill="#f6f8fa"/>
-<text x="18" y="888.0" font-size="11" font-weight="600" fill="#59636e" font-family="Consolas,monospace">THM-P4</text>
+<text x="18" y="888.0" font-size="11" font-weight="600" fill="#59636e" font-family="Consolas,monospace">DAX-P4</text>
 <text x="142" y="888.0" font-size="11.5" fill="#1f2328">Узгодити критичні зміни остан…</text>
 <rect x="527.3" y="877.0" width="70.9" height="13" rx="3" fill="#9a6700" fill-opacity="0.28" stroke="#9a6700" stroke-width="1.5"/>
 <text x="604.3" y="888.0" font-size="10" fill="#59636e">11-02 → 11-20</text>
-<line x1="434.0" y1="60.0" x2="434.0" y2="895.0" stroke="#cf222e" stroke-width="2"/>
+<text x="18" y="911.0" font-size="11" font-weight="600" fill="#59636e" font-family="Consolas,monospace">FAB-P7</text>
+<text x="142" y="911.0" font-size="11.5" fill="#1f2328">Вибір платформи і сервісу (gi…</text>
+<rect x="527.3" y="900.0" width="18.7" height="13" rx="3" fill="#9a6700" fill-opacity="0.28" stroke="#9a6700" stroke-width="1.5"/>
+<text x="552.0" y="911.0" font-size="10" fill="#59636e">11-02 → 11-06</text>
+<rect x="0" y="918.0" width="900" height="23" fill="#f6f8fa"/>
+<text x="18" y="934.0" font-size="11" font-weight="600" fill="#59636e" font-family="Consolas,monospace">THM-P4</text>
+<text x="142" y="934.0" font-size="11.5" fill="#1f2328">Узгодити критичні зміни остан…</text>
+<rect x="527.3" y="923.0" width="70.9" height="13" rx="3" fill="#9a6700" fill-opacity="0.28" stroke="#9a6700" stroke-width="1.5"/>
+<text x="604.3" y="934.0" font-size="10" fill="#59636e">11-02 → 11-20</text>
+<line x1="434.0" y1="60.0" x2="434.0" y2="941.0" stroke="#cf222e" stroke-width="2"/>
 <polygon points="429.0,60.0 439.0,60.0 434.0,66.0" fill="#cf222e"/>
-<rect x="18.0" y="912.0" width="22" height="12" rx="3" fill="#0969da"/>
-<text x="46.0" y="922.0" font-size="11.5" fill="#1f2328">В процесі</text>
-<rect x="124.1" y="912.0" width="22" height="12" rx="3" fill="#9a6700" fill-opacity="0.28" stroke="#9a6700" stroke-width="1.5"/>
-<text x="152.1" y="922.0" font-size="11.5" fill="#1f2328">Заплановано</text>
-<rect x="244.0" y="912.0" width="22" height="12" rx="3" fill="#cf222e"/>
-<text x="272.0" y="922.0" font-size="11.5" fill="#1f2328">Заблоковано</text>
-<text x="882" y="922.0" text-anchor="end" font-size="10.5" fill="#59636e">▶ = задача виходить за межі вікна</text>
+<rect x="18.0" y="958.0" width="22" height="12" rx="3" fill="#0969da"/>
+<text x="46.0" y="968.0" font-size="11.5" fill="#1f2328">В процесі</text>
+<rect x="124.1" y="958.0" width="22" height="12" rx="3" fill="#9a6700" fill-opacity="0.28" stroke="#9a6700" stroke-width="1.5"/>
+<text x="152.1" y="968.0" font-size="11.5" fill="#1f2328">Заплановано</text>
+<rect x="244.0" y="958.0" width="22" height="12" rx="3" fill="#cf222e"/>
+<text x="272.0" y="968.0" font-size="11.5" fill="#1f2328">Заблоковано</text>
+<text x="882" y="968.0" text-anchor="end" font-size="10.5" fill="#59636e">▶ = задача виходить за межі вікна</text>
 </svg>
